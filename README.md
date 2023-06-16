@@ -1,3 +1,3 @@
 ✨ Just write:
-`print("Hello world!")`
+`когда-то тут будет код`
 
